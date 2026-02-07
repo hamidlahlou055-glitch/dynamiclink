@@ -1,0 +1,7 @@
+{
+  "name": "HamidLink Pro: Dynamic Preview Engine",
+  "description": "A world-class dashboard and simulator for managing dynamic social media previews. Uses Gemini AI to generate viral headlines and thumbnails while simulating the bot-detection and redirection logic for platforms like WhatsApp and Facebook.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
